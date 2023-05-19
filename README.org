@@ -1,0 +1,9 @@
+* let-plus
+
+This library implements the let+ macro, which is a dectructuring extension of let*.
+
+|---------+--------------------------------------------------|
+| source  | git:https://github.com/sharplispers/let-plus.git |
+| commit  | 455e657                                          |
+| systems | let-plus                                         |
+|---------+--------------------------------------------------|
